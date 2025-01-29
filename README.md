@@ -1,9 +1,7 @@
 # SOCI 269: Introduction to Quantitative Sociology
 
-## Amherst College
+#### Sakeef M. Karim
 
-> **Note**: This page is under active construction. It's still functional, though.
+> **Note**: This page is under active construction---but functional.
 
-This repository will house datasets and script files for `SOCI 269 An Introduction to Quantitative Sociology—Culture and Power`. 
-
-It will, in principle, also be regularly updated.  
+This repository will house datasets and script files for [`SOCI 269 An Introduction to Quantitative Sociology—Culture and Power`](https://github.com/sakeefkarim/intro_quantitative_sociology). 
