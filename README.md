@@ -8,4 +8,4 @@ This repository will house datasets and script files for [`SOCI 269 An Introduct
 
 #### GSS and ANES Data Files
 
-The GSS and ANES files embedded in this repository were prepared using the [`{gssr}`](https://kjhealy.github.io/gssr/){.external target="_blank"} and [`{anesr}`](https://github.com/jamesmartherus/anesr){.external target="_blank"} packages, respectively.
+The GSS and ANES files embedded in this repository were prepared using the <a href="https://kjhealy.github.io/gssr/" target="_blank">{gssr}</a> and <a href="https://github.com/jamesmartherus/anesr" target="_blank">{anesr}</a> packages, respectively.
